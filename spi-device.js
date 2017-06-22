@@ -1,2 +1,2 @@
-module.exports = require('bindings')('spi.node');
+module.exports = require('./build/spi.node);
 
